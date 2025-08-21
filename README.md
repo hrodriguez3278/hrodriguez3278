@@ -11,7 +11,7 @@
 <!-- BREVE DESCRIPCION -->
 - 📚 I am currently a student at [Kinal Fundation]([https://www.certus.edu.pe/](https://www.kinal.org.gt/))
 
-- 🌱 I am currently studying to become a Fullstack Programmer.**
+- 🌱 I am currently studying to become a **Fullstack Programmer.**
 
 - 📫 How to reach me **hrodriguez.2023278@gmail.com**
 
