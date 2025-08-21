@@ -9,7 +9,7 @@
 
 
 <!-- BREVE DESCRIPCION -->
-- 📚 I am currently a student at [Kinal Fundation]([https://www.certus.edu.pe/](https://www.kinal.org.gt/))
+- 📚 I am currently a student at [Kinal Fundation](https://www.certus.edu.pe/](https://www.kinal.org.gt/)
 
 - 🌱 I am currently studying to become a **Fullstack Programmer.**
 
